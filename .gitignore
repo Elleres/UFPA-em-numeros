@@ -1,0 +1,10 @@
+/ollama-models
+
+.venv
+
+*.json
+
+.idea
+.DS_Store
+
+*.pyc

@@ -1,0 +1,9 @@
+pdf2image
+pdfplumber
+pytesseract
+fastapi
+uvicorn
+transformers
+torch
+requests
+scikit-learn
